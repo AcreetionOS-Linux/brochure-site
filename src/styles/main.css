@@ -1,0 +1,4 @@
+/* Ensure there are no incorrect imports or references */
+body {
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(221,91,16,1) 50%, rgba(252,176,69,1) 100%);
+}
