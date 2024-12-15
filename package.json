@@ -1,0 +1,23 @@
+{
+  "name": "brochure-site",
+  "version": "1.0.0",
+  "description": "The long term website project of AcreetionOS",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack serve --open"
+  },
+  "keywords": [],
+  "author": "jajunk",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.3",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
